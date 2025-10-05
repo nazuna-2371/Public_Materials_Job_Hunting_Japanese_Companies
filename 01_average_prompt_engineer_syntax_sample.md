@@ -38,3 +38,29 @@
 ```
 
 <img width="1207" height="846" alt="average_prompt_engineer_syntax_sample_image" src="https://github.com/user-attachments/assets/c41e96e8-2256-430c-90c4-dcca889973d9" />
+
+
+```text
+本文は画像の箇所まで。
+↓ここから下はただのsignatureとhashなので、メタデータ記録用。本文とは関係ありません。
+```
+
+```json
+{
+  "meta_data": {
+    "usage": "平均的プロンプトエンジニア構文（比較用）",
+    "notes": [
+      "解説", "構文本体", "出力例", "動作例画像"
+    ],
+    "revision_notes": {
+      "previous_version": "1.0.0",
+      "diff_detail": "最新verなので差分無し。"
+    },
+    "file_name": "init_various_feature_control_syntax_20250929.json",
+    "version": "1.0.0",
+    "author": "nazuna-2371",
+    "created": "2025-10-05",
+    "last_updated": "2025-10-05"
+  }
+}
+```
