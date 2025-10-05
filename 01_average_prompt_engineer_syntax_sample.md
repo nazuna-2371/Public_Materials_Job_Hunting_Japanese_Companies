@@ -46,7 +46,8 @@
 ```text
 ↑本文は画像の箇所まで。
 ↓ここから下はただのjson形式でのsignatureとhashなので、メタデータ記録用。本文とは一切関係ありません。
-コード保護のため、nazuna-2371独自で追加した物です。
+コード保護のため、nazuna-2371が独自で全ファイルに追加している物です。
+不要であれば読み飛ばして頂いて問題ありません。
 ```
 
 ```json
@@ -76,9 +77,9 @@
     "hashing_range": {
       "target_1": "先頭からmeta_dataまで",
       "hash_value": {
-        "sha512": "33ff28b3a57b90537de4dab0898a5429b4afa42fe6dc1c1a0fde4638138031d78e68d6516177e4d5813401c52eceaa362df4eb61c365be9298bf5d4391e9d74e",
-        "sha256": "82bb8f745190568c8fc6a5ee17b87cb0efd063bcb04b6f11cb45f4c63d709602",
-        "md5": "d6c4887db838604c60f4812874909728"
+        "sha512": "5ccbdbfdafa8920602df05181f7508e6ebdf8bfed04452ac56329bb54d094ffc64ce03718bd2ec01074842109b46128d00e997c25c82f5059c4eb76649512ad5",
+        "sha256": "300ffb63119fb018e2d2868513a86b62bf497def4733beacb00f7f1d624cd0ed",
+        "md5": "90da4fa9fe70f27c9e8c31f486761e29"
       },
       "target_2": "png画像エリアのみ",
       "hash_value": {
