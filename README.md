@@ -1,4 +1,4 @@
-# Public Materials Job Hunting Japanese Companies
+# Public Portfolio For Job Change
 
 ## 本リポジトリ概要
 - 日本企業向け転職用資料集
