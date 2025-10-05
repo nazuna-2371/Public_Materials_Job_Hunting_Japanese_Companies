@@ -37,6 +37,4 @@
 株式会社Yが発表したAIツール「InsightPro」は、企業のデータ分析とレポート作成を効率化し、今後は機能強化と海外展開を予定している。
 ```
 
-```image
 <img width="1207" height="846" alt="average_prompt_engineer_syntax_sample_image" src="https://github.com/user-attachments/assets/c41e96e8-2256-430c-90c4-dcca889973d9" />
-```
