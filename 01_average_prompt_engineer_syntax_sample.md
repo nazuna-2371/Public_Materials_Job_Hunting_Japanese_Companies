@@ -61,7 +61,6 @@
       "previous_version": "1.0.0",
       "diff_detail": "最新verなので差分無し。"
     },
-    "file_name": "init_various_feature_control_syntax_20250929.json",
     "version": "1.0.0",
     "author": "nazuna-2371",
     "created": "2025-10-05",
@@ -77,9 +76,9 @@
     "hashing_range": {
       "target_1": "先頭からmeta_dataまで",
       "hash_value": {
-        "sha512": "c5adbee86903380553deba215ac675257781728f9aa91a889c56306e7e9e7d93d3d3b4c35603023800d947ce1e293be3b4338205cded3b093b1de3c7d67688d0",
-        "sha256": "728ef509a785eeadf7db936f07d7476e3ae4efe69f9a489778847374d64406c6",
-        "md5": "c03b7b4cb46925cf272b2b58ef11d1dd"
+        "sha512": "dfcf4de306963e895ef11df0993c6ee2de5d2107e68ccc46b990b9b6ba693b817a724cbff90fb3b1218b140564c949c9bc075526aeee185493a9e3d9fa35f46b",
+        "sha256": "70cd52e8f17f5cd722e55c792a37eff3857a72e410d14ff97859ea417d7da075",
+        "md5": "5495aa676a2858cf6eb965bec07a5989"
       },
       "target_2": "png画像エリアのみ",
       "hash_value": {
