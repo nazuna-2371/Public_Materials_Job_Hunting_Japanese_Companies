@@ -1,6 +1,6 @@
 # Public Materials Job Hunting Japanese Companies
 
-## レポジトリ概要
+## 本リポジトリ概要
 - 日本企業向け転職用資料集
 
 ## 著作権
