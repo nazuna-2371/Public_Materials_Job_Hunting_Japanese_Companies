@@ -30,17 +30,16 @@
 
 ```markdown
 出力例:
-* 2025年10月1日に「InsightPro」発表
+* 株式会社Yが「InsightPro」発表
 * データ分析を自動化
 * レポート作成時間を短縮
 * 日本向け初期リリース
 * 月額制で中小企業向け価格
 
-**まとめ:**
-株式会社YはAI分析ツール「InsightPro」を発表し、手軽に使える自動分析サービスを提供開始した。
+**まとめ:** 株式会社Yはデータ分析自動化ツール「InsightPro」を日本向けに発表し、手頃な月額制で提供を開始した。
 ```
 
-<img width="1214" height="845" alt="average_prompt_engineer_syntax_sample_image" src="https://github.com/user-attachments/assets/1da13502-23c2-4884-82fd-b525215ff964" />
+<img width="1215" height="846" alt="average_prompt_engineer_syntax_sample_image_20251005" src="https://github.com/user-attachments/assets/7861799b-f0cf-4bbf-9b49-4ecf476cf5de" />
 
 ```text
 ↑本文は本ファイルの画像の箇所まで。
