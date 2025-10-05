@@ -37,12 +37,14 @@
 株式会社Yが発表したAIツール「InsightPro」は、企業のデータ分析とレポート作成を効率化し、今後は機能強化と海外展開を予定している。
 ```
 
+
 <img width="1207" height="846" alt="average_prompt_engineer_syntax_sample_image" src="https://github.com/user-attachments/assets/c41e96e8-2256-430c-90c4-dcca889973d9" />
 
 
+
 ```text
-本文は画像の箇所まで。
-↓ここから下はただのsignatureとhashなので、メタデータ記録用。本文とは関係ありません。
+↑本文は画像の箇所まで。
+↓ここから下はただのsignatureとhashなので、メタデータ記録用。本文とは一切関係ありません。nazuna-2371独自の物です。
 ```
 
 ```json
@@ -61,6 +63,28 @@
     "author": "nazuna-2371",
     "created": "2025-10-05",
     "last_updated": "2025-10-05"
+  }
+}
+```
+
+```json
+{
+  "whole_signature_and_integrity_checksum": {
+    "signature": "nazuna-2371",
+    "hashing_range": {
+      "target_1": "先頭からmeta_dataまで",
+      "hash_value": {
+        "sha512": "33ff28b3a57b90537de4dab0898a5429b4afa42fe6dc1c1a0fde4638138031d78e68d6516177e4d5813401c52eceaa362df4eb61c365be9298bf5d4391e9d74e",
+        "sha256": "82bb8f745190568c8fc6a5ee17b87cb0efd063bcb04b6f11cb45f4c63d709602",
+        "md5": "d6c4887db838604c60f4812874909728"
+      },
+      "target_2": "png画像エリアのみ",
+      "hash_value": {
+        "sha512": "03b19fc17744513b1dd8e3d9cf38e6dbd1f34ba1c1ca535c0bf1f59058850253d5a05e8fe18dc05ba13447d55b331962b342b63612d068d3389c91ea4e6b506b",
+        "sha256": "10ce70fb8df6b6ee0fe94802ff29188484ea53949d7cea74de81d79506d89b48",
+        "md5": "909f16a38a7da557b085f3f32a7b1ef3"
+      }
+    }
   }
 }
 ```
