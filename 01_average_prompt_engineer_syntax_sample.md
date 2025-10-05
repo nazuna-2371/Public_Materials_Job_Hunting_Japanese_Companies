@@ -40,7 +40,7 @@
 株式会社YはAI分析ツール「InsightPro」を発表し、手軽に使える自動分析サービスを提供開始した。
 ```
 
-<img width="1207" height="846" alt="average_prompt_engineer_syntax_sample_image" src="https://github.com/user-attachments/assets/c41e96e8-2256-430c-90c4-dcca889973d9" />
+<img width="1214" height="845" alt="average_prompt_engineer_syntax_sample_image" src="https://github.com/user-attachments/assets/1da13502-23c2-4884-82fd-b525215ff964" />
 
 ```text
 ↑本文は本ファイルの画像の箇所まで。
