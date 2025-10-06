@@ -21,6 +21,8 @@
 ファイルやコード本体の転送・再配布はご遠慮ください。
 
 本リポジトリの内容は「現状のまま」提供され、いかなる保証も行いません。
+
+本リポジトリは、著者による独自の構文設計およびAI制御手法を示す技術的ポートフォリオとしても位置づけられています。
 ```
 
 ### EN
@@ -40,4 +42,6 @@ and **only** by sharing the URL of this repository.
 Please refrain from forwarding or redistributing the files or code themselves.
 
 The contents of this repository are provided “as is,” without any warranties of any kind.
+
+This repository also serves as a technical portfolio, intended to demonstrate the author’s original syntax design and AI control methodology.
 ```
