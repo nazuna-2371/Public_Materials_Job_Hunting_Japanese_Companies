@@ -11,6 +11,7 @@
 
 本リポジトリに含まれるすべての制御構文、プロンプト、ソースコード、設定、ドキュメント、および関連ファイルの
 著作権は nazuna-2371 に帰属します。
+各ファイルは、ファイルの整合性検証と改ざん防止のため、署名情報およびハッシュ値を使用しています。
 
 無断での転載、再配布、改変、商用利用を禁じます。
 ただし、閲覧および個人の学習を目的とする利用は許可します。
@@ -28,6 +29,7 @@
 
 All control structures, prompts, source code, configurations, documents, and related files  
 contained in this repository are the property of nazuna-2371 and are protected by copyright.
+Each file incorporates digital signatures and hash values to ensure integrity and prevent tampering.
 
 Unauthorized reproduction, redistribution, modification, or commercial use is strictly prohibited.  
 However, viewing and use for personal learning purposes are permitted.
