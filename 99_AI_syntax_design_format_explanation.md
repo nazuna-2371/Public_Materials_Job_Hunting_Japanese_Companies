@@ -957,3 +957,49 @@ GPTは「`yaml`コードブロック」を見た瞬間、
 ````
 
 ---
+
+# 補足事項
+↑本文はここまでです。
+
+↓以下の署名情報およびハッシュ値は、ファイルの整合性検証と改ざん防止のためのメタデータです。
+本題の内容に直接関係しないため、通常は読み飛ばして問題ありません。
+技術的詳細や署名の仕組みに興味がある方のみご覧ください。
+
+---
+
+```json
+{
+  "meta_data": {
+    "usage": "Markdown × YAML × JSON ― 三層構文設計ガイド",
+    "notes": [
+      "解説", "構文本体"
+    ],
+    "revision_notes": {
+      "previous_version": "1.0.0",
+      "diff_detail": "最新verなので差分無し。"
+    },
+    "version": "1.0.0",
+    "author": "nazuna-2371",
+    "created": "2025-10-06",
+    "last_updated": "2025-10-06"
+  }
+}
+```
+
+```json
+{
+  "whole_signature_and_integrity_checksum": {
+    "signature": "nazuna-2371",
+    "hashing_range": {
+      "target_1": "先頭からmeta_dataまで",
+      "hash_value": {
+        "sha512": "ff0d5e2f2c64d413f298b3d8f2a293466cbe2fd16aa4106f32e47f57883626b3c677a7b32bffdef668e323e477ed2983061e857dd454b107db61084bd3a3ec30",
+        "sha256": "8f366ea8079f83ed4818638e80c6d9be6f3359aff5152a7b05708d5cb5bfd2ee",
+        "md5": "f88c8bd3ed096af7a01cca3fcc3634e6"
+      }
+    }
+  }
+}
+```
+
+---
