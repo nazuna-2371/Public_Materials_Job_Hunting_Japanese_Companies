@@ -48,6 +48,9 @@ This repository also serves as a technical portfolio, intended to demonstrate th
 
 ### 署名情報およびハッシュ値
 ```text
-"signature": "nazuna-2371"
-"sha512": "d09b609e4cf8ed451599af45f80b7002120820a12bff31ffd29c835391164f4abdc4690dd79e367dcf562009a8e433ef706cd2c64dbf27577175fd5a0cabc25f"
+File: README.md
+Hash: d09b609e4cf8ed451599af45f80b7002120820a12bff31ffd29c835391164f4abdc4690dd79e367dcf562009a8e433ef706cd2c64dbf27577175fd5a0cabc25f
+Algorithm: SHA-512  
+Signed-By: nazuna-2371  
+Date: 2025-10-06
 ```
