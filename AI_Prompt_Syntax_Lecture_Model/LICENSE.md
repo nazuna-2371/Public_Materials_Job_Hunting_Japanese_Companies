@@ -41,7 +41,8 @@ The contents of this repository are provided “as is,” without any warranties
 This repository also serves as a technical portfolio, intended to demonstrate the author’s original syntax design and AI control methodology.
 ```
 
-## 署名情報およびハッシュ値
+## ⚙️ 署名情報及びハッシュ値
+
 ```text
 File: LICENSE.md
 Hash: dcd0c3ef2fedd81f0b87593b2a2af4a331f3365050c5ed9ef244848e1f64fe7ddb9c5d6e40aa2c21a15ed69c0d8f6b1f638fae8b247c82e5321edd4f6b7a0df4
