@@ -48,7 +48,8 @@ The contents of this repository are provided “as is,” without any warranties
 This repository also serves as a technical portfolio, intended to demonstrate the author’s original syntax design and AI control methodology.
 ```
 
-### 署名情報およびハッシュ値
+### 署名情報及びハッシュ値
+
 ```text
 File: README.md
 Hash: 725c5ba93f88787f61b0443dbeaa4f152432962feb15efdb83e212dba471fb1a2708a79b846b04f79f3d89ae21c4f36c9e2ef5f9e5e023c33fa99ff42e44a814
