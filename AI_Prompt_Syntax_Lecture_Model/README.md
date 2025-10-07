@@ -1,4 +1,5 @@
 # AI構文設計・プロンプト設計・教育設計に関するソースコード及び軽論文
+- ※ このJSONは制御構文ではなく、AI教材の設定例として使用しています。
 
 ## 本リポジトリ概要
 - 企業 / 研究所向け資料
@@ -52,7 +53,7 @@ This repository also serves as a technical portfolio, intended to demonstrate th
 
 ```text
 File: README.md
-Hash: 725c5ba93f88787f61b0443dbeaa4f152432962feb15efdb83e212dba471fb1a2708a79b846b04f79f3d89ae21c4f36c9e2ef5f9e5e023c33fa99ff42e44a814
+Hash: 12f5e11faaa21e0b1be4ab1f62cbddd441838a3d498777b208803939bf112d474d25a76a69a8cb63f0472f90dfa6bb00de0700a4f201240f697ae15aff3dbce1
 Algorithm: SHA-512  
 Signed-By: nazuna-2371  
 Date: 2025-10-07
