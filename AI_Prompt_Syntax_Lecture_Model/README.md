@@ -1,5 +1,6 @@
 # AI構文設計・プロンプト設計・教育設計に関するソースコード及び軽論文
 - ※ このJSONは制御構文ではなく、AI教材の設定例として使用しています。
+- “Design of a Self-Descriptive Syntax Framework for Cognitive AI Education” (nazuna-2371, 2025-10-07)
 
 ## 本リポジトリ概要
 - 企業 / 研究所向け資料
@@ -53,7 +54,7 @@ This repository also serves as a technical portfolio, intended to demonstrate th
 
 ```text
 File: README.md
-Hash: 12f5e11faaa21e0b1be4ab1f62cbddd441838a3d498777b208803939bf112d474d25a76a69a8cb63f0472f90dfa6bb00de0700a4f201240f697ae15aff3dbce1
+Hash: d64317c6c02b5e1cc4ce0bccceac59d8c133599ce8fd7e7a6cb9d3858e62251aa0a430d0c09d7f243f53f5a61c59753c1b3ab60d22d7fff61703a6a66e5ed566
 Algorithm: SHA-512  
 Signed-By: nazuna-2371  
 Date: 2025-10-07
