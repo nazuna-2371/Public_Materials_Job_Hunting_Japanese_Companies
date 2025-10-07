@@ -4,6 +4,12 @@
 - 日本企業向け転職用資料集
 - 初学者学習サポート資料（ディレクトリ: learning_sample 内のみ）
 
+## プロフィール
+- 名前: nazuna-2371
+- 国: 日本、関東
+- 経歴: データサイエンティスト、スクレイピングエンジニア、Responsible AIポリシーアナリスト
+- 趣味: 個人的にプロンプト研究 / 開発、歌う事
+
 ## 名称
 - 生成AI応答設計最適化エンジニア / AI Behavioral System Designer
 - （生成AI応答設計エンジニア / プロンプト設計士 / 対話制御エンジニア）
@@ -55,7 +61,7 @@ This repository also serves as a technical portfolio, intended to demonstrate th
 ### 署名情報およびハッシュ値
 ```text
 File: README.md
-Hash: 957b07187a077c2cfadfb3975e86d5169e6a85300902be84952b86e13a83f74f012ad104cbc2039147b35e9f06653018de37b02009be5941b14b4a4a30fb63fd
+Hash: 125249c8676a05fcb94049604377e2e98c855948f0a55c3bd18d511f125a8b8332493f490631a9d78766b94ed1f9706987c0fa5104ec5a88e092ed3794af3069
 Algorithm: SHA-512  
 Signed-By: nazuna-2371  
 Date: 2025-10-06
