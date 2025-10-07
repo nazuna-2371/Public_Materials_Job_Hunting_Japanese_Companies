@@ -131,9 +131,10 @@ ensuring intrinsic alignment between reasoning, behavior, and user experience.
 ---
 
 ## 署名情報及びハッシュ値
+
 ```text
 File: EXTENDED_ABSTRACT.md
-Hash: da7a2e8c799d186eef5894d8506abca9f8dec000b3fb508e685d6fd049967453a796a68ed6a414f1591393723be2e5bebb56655ae3db22a07f84bed8e2521cac
+Hash: 4bf23fcf2de15eb4010a1cda750c6f590d078cff0b913fa0779331465206425ae7b05db5a10dd2eb7350695321c59d2c56341f00be3f3210623558712b8156f5
 Algorithm: SHA-512  
 Signed-By: nazuna-2371  
 Date: 2025-10-07
