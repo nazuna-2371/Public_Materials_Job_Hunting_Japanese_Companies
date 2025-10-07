@@ -180,3 +180,14 @@ AI_PROMPT_SYNTAX_LECTURE_MODELは、<br>
 それが nazuna-2371 による **AI構文教育モデル** の核心である。
 
 ---
+
+## 署名情報及びハッシュ値
+```text
+File: PAPERS.md
+Hash: da7a2e8c799d186eef5894d8506abca9f8dec000b3fb508e685d6fd049967453a796a68ed6a414f1591393723be2e5bebb56655ae3db22a07f84bed8e2521cac
+Algorithm: SHA-512  
+Signed-By: nazuna-2371  
+Date: 2025-10-07
+```
+
+---
