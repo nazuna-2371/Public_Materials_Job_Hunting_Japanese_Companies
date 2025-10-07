@@ -1,11 +1,28 @@
-# AI構文設計・プロンプト設計・教育設計に関するソースコード及び軽論文
+# AI構文設計・プロンプト設計・教育設計に関する研究ソースコードおよび短報
 - ※ このJSONは制御構文ではなく、AI教材の設定例として使用しています。
-- “Design of a Self-Descriptive Syntax Framework for Cognitive AI Education” (nazuna-2371, 2025-10-07)
+- “Design of a Self-Descriptive Syntax Framework for Cognitive AI Education”  
+  *(Short Paper, v1.0, Oct 2025 — by nazuna-2371)*  
 
-## 本リポジトリ概要
-- 企業 / 研究所向け資料
-- 軽論文
-- ソースコードサンプル
+## 概要
+本リポジトリは、生成AIを用いた**構文的教育支援モデルの設計研究**に関する短報およびソースコードをまとめたものです。  
+AI構文設計、プロンプト設計、学習支援構造の設計に関心を持つ企業・研究機関向けの資料として公開しています。  
+
+>  本研究のテーマ：  
+> 「AIが自らの教育構文を理解し、学習者に合わせて動作を調整できるか？」
+
+## 内容構成
+
+| 種別 | ファイル | 概要 |
+|------|-----------|------|
+| 軽論文（短報） | `01_PAPERS.md / 02_EXTENDED_ABSTRACT.md` | 構文的教育モデル設計に関する概要論文 |
+| ソースコード | `03_AI_PROMPT_SYNTAX_LECTURE_MODEL.json` | 教育AI構文モデル（初学者向け支援） |
+| 動作確認画像 | `04_BEHAVIOR_EXAMPLE_IMAGES.md` | 実行画面・応答例サンプル |
+
+
+## 対象読者
+- 教育AI・生成AI・構文設計に関心を持つ技術研究者  
+- 構文的学習支援設計を理解したいAIエンジニア  
+- 技術系採用・AIリサーチ関連部署担当者  
 
 ## License / 著作権
 
@@ -50,11 +67,11 @@ The contents of this repository are provided “as is,” without any warranties
 This repository also serves as a technical portfolio, intended to demonstrate the author’s original syntax design and AI control methodology.
 ```
 
-### 署名情報及びハッシュ値
+## 署名情報及びハッシュ値
 
 ```text
 File: README.md
-Hash: d64317c6c02b5e1cc4ce0bccceac59d8c133599ce8fd7e7a6cb9d3858e62251aa0a430d0c09d7f243f53f5a61c59753c1b3ab60d22d7fff61703a6a66e5ed566
+Hash: 8409bcc6dbedb73bdaa5fdd92fa4a3f9c6eb88cc7a8153641ffc83309eaf5dae654c40efb258a81dab929f0cb4d6142db9da45b0d1f7c37a73f982d2cf922eef
 Algorithm: SHA-512  
 Signed-By: nazuna-2371  
 Date: 2025-10-07
