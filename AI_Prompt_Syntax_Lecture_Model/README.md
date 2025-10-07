@@ -1,9 +1,9 @@
-# AI構文設計・プロンプト設計・教育設計に関するソースコード及び論文
+# AI構文設計・プロンプト設計・教育設計に関するソースコード及び軽論文
 
 ## 本リポジトリ概要
-- 日本企業向け転職用資料集
+- 企業 / 研究所向け資料
 - 軽論文
-- ソースコード
+- ソースコードサンプル
 
 ## License / 著作権
 
@@ -51,7 +51,7 @@ This repository also serves as a technical portfolio, intended to demonstrate th
 ### 署名情報およびハッシュ値
 ```text
 File: README.md
-Hash: 35c13f51e0bab10c46a585c832e4bb3a2015fb37e8f06e725aa9f809c3ceb24c0ab843ade618cd0cb30f0e7b69156e310566869ea1aa17fe237a1ba0040e2a67
+Hash: 725c5ba93f88787f61b0443dbeaa4f152432962feb15efdb83e212dba471fb1a2708a79b846b04f79f3d89ae21c4f36c9e2ef5f9e5e023c33fa99ff42e44a814
 Algorithm: SHA-512  
 Signed-By: nazuna-2371  
 Date: 2025-10-07
