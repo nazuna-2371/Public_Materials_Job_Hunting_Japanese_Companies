@@ -68,6 +68,7 @@ bridging AI reasoning, pedagogy, and structural semantics.
 
 ## 🧩 図表：構文階層図（Syntax Architecture Layers）
 
+```text
 ┌──────────────────────────────┐
 │       AI_PROMPT_SYNTAX_LECTURE_MODEL        │
 ├──────────────────────────────┤
@@ -87,6 +88,7 @@ bridging AI reasoning, pedagogy, and structural semantics.
 │ • Signature & hash verification (SHA-512)    │
 │ • AI ethics policy and safety guard          │
 └──────────────────────────────┘
+```
 
 > **Flow Summary:**<br>
 > Learner interacts with AI → AI follows internal JSON-defined teaching schema →<br>
