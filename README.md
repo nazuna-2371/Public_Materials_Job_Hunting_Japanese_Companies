@@ -4,6 +4,10 @@
 - 日本企業向け転職用資料集
 - 初学者学習サポート資料（ディレクトリ: learning_sample 内のみ）
 
+## 名称
+- 生成AI応答設計最適化エンジニア（生成AI応答設計エンジニア / プロンプト設計士 / 対話制御エンジニア）
+- 関連領域: プロンプトエンジニアリング、プロンプト設計系統など
+
 ## License / 著作権
 
 ### JP
@@ -50,7 +54,7 @@ This repository also serves as a technical portfolio, intended to demonstrate th
 ### 署名情報およびハッシュ値
 ```text
 File: README.md
-Hash: 0232c8a9b2a151820309ea4e50ec0ef588d490c7c63a99d4b9bca45aa862dd8d8a00dc18ff443fb36183fe5f93b4636b435d84cbd09c1a961702f5fb994f6fa1
+Hash: b007c317de3b7c66caf2afef84677b83718846fc22ec67dc1459d67419351694ce3c25a7f7d03cd1190b23d3071dd740e1d8f0a6d1b8cc9d27d606f3e7af7dbb
 Algorithm: SHA-512  
 Signed-By: nazuna-2371  
 Date: 2025-10-06
