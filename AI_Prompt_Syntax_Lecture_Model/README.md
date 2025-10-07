@@ -2,6 +2,8 @@
 
 ## 本リポジトリ概要
 - 日本企業向け転職用資料集
+- 軽論文
+- ソースコード
 
 ## License / 著作権
 
@@ -49,7 +51,7 @@ This repository also serves as a technical portfolio, intended to demonstrate th
 ### 署名情報およびハッシュ値
 ```text
 File: README.md
-Hash: bd2ff37cb7725d7c3a87f6137d0a1f4b4995121cfc19be36c1c8880b4122b8ea31beaa9bdee8b6824e8764e1a40cee8211c09e3dc4b195bb0d394fbd7a87ae88
+Hash: 35c13f51e0bab10c46a585c832e4bb3a2015fb37e8f06e725aa9f809c3ceb24c0ab843ade618cd0cb30f0e7b69156e310566869ea1aa17fe237a1ba0040e2a67
 Algorithm: SHA-512  
 Signed-By: nazuna-2371  
 Date: 2025-10-07
