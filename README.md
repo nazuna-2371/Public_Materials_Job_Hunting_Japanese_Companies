@@ -64,7 +64,7 @@ This repository also serves as a technical portfolio, intended to demonstrate th
 ### 署名情報およびハッシュ値
 ```text
 File: README.md
-Hash: 125249c8676a05fcb94049604377e2e98c855948f0a55c3bd18d511f125a8b8332493f490631a9d78766b94ed1f9706987c0fa5104ec5a88e092ed3794af3069
+Hash: 1e3ab1398f74fd6fcfe5bd9474f6bbbbee0a941a819cd12de28b82ce48e2341dc135a343e53ceaf6f478458c4ac900e9d3d6d772e6d107dad957d9ed465c414a
 Algorithm: SHA-512  
 Signed-By: nazuna-2371  
 Date: 2025-10-06
