@@ -1,5 +1,6 @@
 # AI構文設計・プロンプト設計・教育設計に関する研究ソースコードおよび短報
-- ※ このJSONは制御構文ではなく、AI教材の設定例として使用しています。
+- *AIが自ら学び方を説明できる構文設計の研究です。*
+- このJSONは制御構文ではなく、AI教材の設定例として使用しています。
 - “Design of a Self-Descriptive Syntax Framework for Cognitive AI Education”  
   *(Short Paper, v1.0, Oct 2025 — by nazuna-2371)*  
 
