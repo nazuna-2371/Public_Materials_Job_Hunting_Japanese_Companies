@@ -130,7 +130,7 @@ ensuring intrinsic alignment between reasoning, behavior, and user experience.
 
 ---
 
-## 署名情報及びハッシュ値
+## ⚙️ 署名情報及びハッシュ値
 
 ```text
 File: EXTENDED_ABSTRACT.md
