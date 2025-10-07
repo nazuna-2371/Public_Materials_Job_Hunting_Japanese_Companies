@@ -1,7 +1,8 @@
-# Public Portfolio For Job Change
+# AI構文設計・プロンプト設計・教育設計を統合的に示すポートフォリオ
 
 ## 本リポジトリ概要
 - 日本企業向け転職用資料集
+- 初学者学習サポート資料（ディレクトリ: learning_sample 内のみ）
 
 ## License / 著作権
 
@@ -49,7 +50,7 @@ This repository also serves as a technical portfolio, intended to demonstrate th
 ### 署名情報およびハッシュ値
 ```text
 File: README.md
-Hash: d09b609e4cf8ed451599af45f80b7002120820a12bff31ffd29c835391164f4abdc4690dd79e367dcf562009a8e433ef706cd2c64dbf27577175fd5a0cabc25f
+Hash: 0232c8a9b2a151820309ea4e50ec0ef588d490c7c63a99d4b9bca45aa862dd8d8a00dc18ff443fb36183fe5f93b4636b435d84cbd09c1a961702f5fb994f6fa1
 Algorithm: SHA-512  
 Signed-By: nazuna-2371  
 Date: 2025-10-06
