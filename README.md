@@ -5,8 +5,9 @@
 - 初学者学習サポート資料（ディレクトリ: learning_sample 内のみ）
 
 ## 名称
-- 生成AI応答設計最適化エンジニア（生成AI応答設計エンジニア / プロンプト設計士 / 対話制御エンジニア）
-- 関連領域: プロンプトエンジニアリング、プロンプト設計系統など
+- 生成AI応答設計最適化エンジニア / AI Behavioral System Designer
+- （生成AI応答設計エンジニア / プロンプト設計士 / 対話制御エンジニア）
+- 関連領域: プロンプトエンジニアリング、プロンプト設計系統、AI応答制御など
 
 ## License / 著作権
 
@@ -54,7 +55,7 @@ This repository also serves as a technical portfolio, intended to demonstrate th
 ### 署名情報およびハッシュ値
 ```text
 File: README.md
-Hash: b007c317de3b7c66caf2afef84677b83718846fc22ec67dc1459d67419351694ce3c25a7f7d03cd1190b23d3071dd740e1d8f0a6d1b8cc9d27d606f3e7af7dbb
+Hash: 957b07187a077c2cfadfb3975e86d5169e6a85300902be84952b86e13a83f74f012ad104cbc2039147b35e9f06653018de37b02009be5941b14b4a4a30fb63fd
 Algorithm: SHA-512  
 Signed-By: nazuna-2371  
 Date: 2025-10-06
