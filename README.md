@@ -61,10 +61,17 @@ The contents of this repository are provided “as is,” without any warranties
 This repository also serves as a technical portfolio, intended to demonstrate the author’s original syntax design and AI control methodology.
 ```
 
-### 署名情報およびハッシュ値
+## 追記
+```text
+© 2025 nazuna-2371
+First practical implementation of self-descriptive syntax model for AI systems.
+Publicly timestamped via LinkedIn (Oct 2025).
+```
+
+## 署名情報およびハッシュ値
 ```text
 File: README.md
-Hash: 6c3752b0e9e1eb1e891bcae93fcbb215c6f5458a998232c69dc70faa70d40bd600c811315a2cd2e520b7cc60e8092bc29fb79ef371c34a9bd5a095631039cf4e
+Hash: 6e814d946eac0949b897d64f2e8f7f7703ee0af29b3a2efb755cf14f2204a3f7a2c06cb8e68a3be11a0a2f22c541f7096fc1fd5d6f1ca022c087b29be39af469
 Algorithm: SHA-512  
 Signed-By: nazuna-2371  
 Date: 2025-10-06
