@@ -16,7 +16,7 @@
 - 関連領域: プロンプトエンジニアリング、プロンプト設計系統、AI応答制御など
 
 ## 希望職
-- research engineer
+- Research Engineer
 
 ## License / 著作権
 
@@ -64,7 +64,7 @@ This repository also serves as a technical portfolio, intended to demonstrate th
 ### 署名情報およびハッシュ値
 ```text
 File: README.md
-Hash: 1e3ab1398f74fd6fcfe5bd9474f6bbbbee0a941a819cd12de28b82ce48e2341dc135a343e53ceaf6f478458c4ac900e9d3d6d772e6d107dad957d9ed465c414a
+Hash: 6c3752b0e9e1eb1e891bcae93fcbb215c6f5458a998232c69dc70faa70d40bd600c811315a2cd2e520b7cc60e8092bc29fb79ef371c34a9bd5a095631039cf4e
 Algorithm: SHA-512  
 Signed-By: nazuna-2371  
 Date: 2025-10-06
