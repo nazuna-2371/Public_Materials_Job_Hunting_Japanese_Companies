@@ -3,7 +3,7 @@
 ## 本リポジトリ概要
 - 内容1: 企業・研究所など向け nazunaの研究・実装 ポートフォリオ資料集
   - 対象: 国内外問わず
-- 内容2: 初学者用学習サポート資料（ディレクトリ: Learning_Sample 内のみ）
+- 内容2: 初学者用 学習サポート資料（ディレクトリ: 98_Learning_Sample 内のみ）
 
 ## プロフィール
 - 名前: nazuna-2371
@@ -72,7 +72,7 @@ Publicly timestamped via LinkedIn (Oct 2025).
 ## 署名情報およびハッシュ値
 ```text
 File: README.md
-Hash: a9d8648e06b68879463f2ad50ccdd2f7c732fdf5a31faf98ba347eee93a116b2a7ca1e3927a01fe3d86bec202c6a8a0bd161467b40b8577b9deacf77e5d30592
+Hash: b387b824489d462072f41069967cabbb952b1edd576828c45284f9ffe6d1c42573bbafe7019a34a8bfe692b319109fc93b32a37b66d75fe2b3b0e3a5b0802960
 Algorithm: SHA-512  
 Signed-By: nazuna-2371  
 Date: 2025-10-06
