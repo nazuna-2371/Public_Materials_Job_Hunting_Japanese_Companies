@@ -109,13 +109,13 @@ Version: 1.0.0
 
 Signed-By: nazuna-2371
 Created_Timestamp: 2025-10-17T08:54:04Z
-Last_Updated_Timestamp: 2025-10-17T08:54:04Z
+Last_Updated_Timestamp: 2025-10-17T11:50:02Z
 
-Linked_License: ./LICENSE_SELECTIVE_READ_ONLY.txt
+Linked_License: ../LICENSE_SELECTIVE_READ_ONLY.txt
 
 Algorithm: SHA-512  
-Primary_Hash: 1a25a4e56ef66b332bf70c086708939f360c3879f85322d55d516be6faa09322e32113c0fc58e150e610ca4f7838699381c21eeac9570c6b5c38415725da11e7
-Meta_Hash (of Primary Hash): 6b397eaa6ea27dde39cb28dbc8e5db597ba7ffeb821af71543cf513cbe53052fc66706dd984d04bee3570c485308b879d79ad33f0232a951c339fc45f5d4864c
+Primary_Hash: ece2ed157f19138f700efec21edcf4270e9814c11ce21332313a5694e71471f899e56c40e0af6f0b4cde466334b6f0edbad1f969036da4fcdcfe5066ec8c7eea
+Meta_Hash (of Primary Hash): 17ccdc6dd99affc14b1eb42f0c92160003ab123331c26e32496b21879df75a35eb481d3e56d295ba6d6bab9ded08b69691665f63ed725cb45f09643db7b5f36f
 Integrity-Level: Dual-Hash Verification (Syntax Layer + Meta Layer)
 ```
 
