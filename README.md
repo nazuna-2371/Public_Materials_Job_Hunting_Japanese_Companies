@@ -1,8 +1,9 @@
 # AI構文設計・プロンプト設計・教育設計を統合的に示すポートフォリオ
 
 ## 本リポジトリ概要
-- 日本企業向け転職用資料集
-- 初学者学習サポート資料（ディレクトリ: learning_sample 内のみ）
+- 内容1: 企業・研究所など向け nazunaの研究・実装 ポートフォリオ資料集
+  - 対象: 国内外問わず
+- 内容2: 初学者用学習サポート資料（ディレクトリ: Learning_Sample 内のみ）
 
 ## プロフィール
 - 名前: nazuna-2371
@@ -71,7 +72,7 @@ Publicly timestamped via LinkedIn (Oct 2025).
 ## 署名情報およびハッシュ値
 ```text
 File: README.md
-Hash: 6e814d946eac0949b897d64f2e8f7f7703ee0af29b3a2efb755cf14f2204a3f7a2c06cb8e68a3be11a0a2f22c541f7096fc1fd5d6f1ca022c087b29be39af469
+Hash: a9d8648e06b68879463f2ad50ccdd2f7c732fdf5a31faf98ba347eee93a116b2a7ca1e3927a01fe3d86bec202c6a8a0bd161467b40b8577b9deacf77e5d30592
 Algorithm: SHA-512  
 Signed-By: nazuna-2371  
 Date: 2025-10-06
