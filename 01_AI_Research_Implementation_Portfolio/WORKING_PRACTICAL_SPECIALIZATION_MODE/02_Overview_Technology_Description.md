@@ -197,13 +197,13 @@ Version: 1.0.0
 
 Signed-By: nazuna-2371
 Created_Timestamp: 2025-10-17T08:58:12Z
-Last_Updated_Timestamp: 2025-10-17T08:58:12Z
+Last_Updated_Timestamp: 2025-10-17T11:50:02Z
 
-Linked_License: ./LICENSE_SELECTIVE_READ_ONLY.txt
+Linked_License: ../LICENSE_SELECTIVE_READ_ONLY.txt
 
 Algorithm: SHA-512  
-Primary_Hash: 3ec0244a443f3a20fbbbcfdd9ed5781dc15352a44d40d525044ae2f74ee5fbc7964910c703e55b3c875c8375e0a25acf9402f2f1110e2c6f0781d3aea60a0891
-Meta_Hash (of Primary Hash): c36b7f919809bef6db2ff93ef244a1c26665582a8577f8e2e869bbfd94a9e8e592bf5823f4d159be8897616ae9f890a2f31cb7f12dde457169eb2f90b5672bd6
+Primary_Hash: e9dfceef2ff1c233e723b7e54621895a88479eb6ea3d052dcf148450eba2da2fd9474b3b3078f718b3b3dcde6c86fcf795ebab979c4609d9c55ab322b5e08a55
+Meta_Hash (of Primary Hash): 5f028f8b56cc5b935dd274b2808a9278b50cad0be34b263a9d0b27cc34ebacaf2f96a8e710dd83c7d7380a88155885d665aadac67b2f561188970721b85012c1
 Integrity-Level: Dual-Hash Verification (Syntax Layer + Meta Layer)
 ```
 
