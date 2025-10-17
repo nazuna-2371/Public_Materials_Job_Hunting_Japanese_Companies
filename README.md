@@ -1,7 +1,7 @@
-# Public Materials Job Hunting Japanese Companies
+# Public Research Implementation Portfolio
 
 ## 本リポジトリ概要
-- 日本企業向け転職用資料集
+- 公開用研究実装ポートフォリオ集
 
 ## License / 著作権
 
@@ -49,7 +49,7 @@ This repository also serves as a technical portfolio, intended to demonstrate th
 ### 署名情報およびハッシュ値
 ```text
 File: README.md
-Hash: 32069dd5ebde9f858583c757ac1f377f240003ed1d129775d1ebe4632e166d5ee436169d09c20bf3248fa53e9b5df8d353b8ee79827c0c6fbfe936e79b9801eb
+Hash: 96b08c013d7f2b53b5d2dd74c12ecd0b66ebafd8ab0154de692438a2d256b71ede4cdb213981cea7f5885d9797a33e8c1cbb6a8c61c16c4b3db03090a2a1468a
 Algorithm: SHA-512  
 Signed-By: nazuna-2371  
 Date: 2025-10-06
