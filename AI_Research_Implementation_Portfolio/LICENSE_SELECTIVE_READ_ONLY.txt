@@ -1,0 +1,75 @@
+
+# LICENSE: SELECTIVE READ-ONLY (Academic/Recruitment Review)
+# Author: nazuna_2371 | Date: 2025-10-17 | Version: 1.0.0
+
+Syntax-Based Cognitive AI Systems  
+(c) 2025 nazuna_2371. All rights reserved.
+
+──────────────────────────────
+📘 LICENSE TYPE: SELECTIVE VIEW-ONLY / NON-REPRODUCTION
+──────────────────────────────
+
+【日本語版】
+本ディレクトリ以下に含まれるすべての構文・理論・設計・文書の著作権および思想的所有権は、
+著作者 nazuna_2371 に完全帰属します。
+各ファイルは、ファイルの整合性検証と改ざん防止のため、署名情報およびハッシュ値を使用しています。
+
+本ディレクトリ以下は、**研究機関・企業**における
+審査・評価・採用レビュー目的のみに限定して閲覧を許可します。
+
+次の行為を**明確に禁止**します：
+・複製、転載、口頭転用、派生物作成、理論の再構築  
+・教育・営利・研究目的での引用または分析利用  
+・モデル訓練、教材化、要約生成など二次的処理への使用  
+・内容の自動取得（スクレイピング等）  
+
+許可される行為：
+・該当機関によるURL参照・共有のみ・審査目的の閲覧のみ。
+
+本ディレクトリ以下の思想・構文・体系は研究著作物であり、  
+一切の再利用・再実装・言語化的模倣を禁止します。  
+違反行為は著作権侵害および思想的窃取として扱われます。
+
+内容は「現状のまま」提供され、いかなる保証も行いません。
+著者による独自の構文設計およびAI制御手法を示す技術的ポートフォリオとして位置づけられています。
+
+──────────────────────────────
+
+【English Version】
+All syntax, theoretical frameworks, designs, and documents contained within this directory  
+are the intellectual and creative property of nazuna_2371 (c) 2025.  
+All rights reserved.
+
+Each file is digitally signed and hash-verified to ensure integrity and prevent tampering.
+
+This directory is made available **strictly for institutional or corporate review purposes** —  
+including evaluation, research assessment, or recruitment-related consideration only.
+
+The following actions are **explicitly prohibited**:
+- Reproduction, redistribution, verbal or written rephrasing, or derivative works  
+- Academic, educational, or commercial citation or analytical reuse  
+- Model training, dataset creation, summarization, or any secondary processing  
+- Automated data extraction (including scraping or API capture)
+
+Permitted actions:
+- Accessing or sharing this repository’s URL **solely for review purposes** by authorized parties.
+
+All syntax systems, theoretical models, and frameworks contained herein constitute original research work.  
+Any form of reuse, reimplementation, or linguistic imitation is strictly prohibited.  
+Violations will be treated as infringement of both copyright and intellectual authorship.
+
+All materials are provided **“as is,”** without any warranty or guarantee.  
+This directory serves as a **technical portfolio and conceptual record**  
+of the author’s original syntax design and AI control methodologies.
+
+File_name: LICENSE_SELECTIVE_READ_ONLY.txt
+Version: 1.0.0
+
+Signed-By: nazuna-2371
+Created_Timestamp: 2025-10-17T06:46:06Z
+Last_Updated_Timestamp: 2025-10-17T06:46:06Z
+
+Algorithm: SHA-512  
+Primary_Hash: 8ebc79ad14777a7f52eb75e00e0de61cf8b954199df8c099cee32bc3dba9dbfc0dc0d81a9d2231e397afad633693ea7a96be53002512074f8493f8eb8f682319  
+Meta_Hash (of Primary Hash): aefd23be81ac30067f325ffa4deab2605d6c9c88ef3f13511f02728a910bf0730758d8fc2a7b3249315e816382e134b718c7e011ad22dafd62ef84bf246de93f
+Integrity-Level: Dual-Hash Verification (Syntax Layer + Meta Layer)
