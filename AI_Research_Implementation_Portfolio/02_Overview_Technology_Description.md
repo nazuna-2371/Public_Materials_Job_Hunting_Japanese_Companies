@@ -192,18 +192,18 @@ where AI cognition, control, and verification are architected through language i
 ### Meta Information
 
 ```text
-File_name: Overview_Technology_Description.md
+File_name: 02_Overview_Technology_Description.md
 Version: 1.0.0
 
 Signed-By: nazuna-2371
-Created_Timestamp: 2025-10-17T08:47:51Z
-Last_Updated_Timestamp: 2025-10-17T08:47:51Z
+Created_Timestamp: 2025-10-17T08:58:12Z
+Last_Updated_Timestamp: 2025-10-17T08:58:12Z
 
 Linked_License: ./LICENSE_SELECTIVE_READ_ONLY.txt
 
 Algorithm: SHA-512  
-Primary_Hash: d2e1cd24b1b85e3e803813adce79ab0b576c837d899fd7c1dbce894e62208273ef602066707095091adb6073d555770c0fc1d4b8e3c5e69ef10d2208a44a1d2e
-Meta_Hash (of Primary Hash): 1699e6c4b1cef3e2307e6df841a12053c1e78caf79a1d6d0abd5cd163207f99e98d3db6676395015980f6cdd11c54e9a67b6b3f5d6554e2932271a14cc19fb31
+Primary_Hash: 3ec0244a443f3a20fbbbcfdd9ed5781dc15352a44d40d525044ae2f74ee5fbc7964910c703e55b3c875c8375e0a25acf9402f2f1110e2c6f0781d3aea60a0891
+Meta_Hash (of Primary Hash): c36b7f919809bef6db2ff93ef244a1c26665582a8577f8e2e869bbfd94a9e8e592bf5823f4d159be8897616ae9f890a2f31cb7f12dde457169eb2f90b5672bd6
 Integrity-Level: Dual-Hash Verification (Syntax Layer + Meta Layer)
 ```
 
