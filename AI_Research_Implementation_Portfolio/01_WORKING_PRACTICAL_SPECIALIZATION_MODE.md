@@ -104,18 +104,18 @@
 ---
 
 ```text
-File_name: WORKING_PRACTICAL_SPECIALIZATION_MODE.md
+File_name: 01_WORKING_PRACTICAL_SPECIALIZATION_MODE.md
 Version: 1.0.0
 
 Signed-By: nazuna-2371
-Created_Timestamp: 2025-10-17T08:47:51Z
-Last_Updated_Timestamp: 2025-10-17T08:47:51Z
+Created_Timestamp: 2025-10-17T08:54:04Z
+Last_Updated_Timestamp: 2025-10-17T08:54:04Z
 
 Linked_License: ./LICENSE_SELECTIVE_READ_ONLY.txt
 
 Algorithm: SHA-512  
-Primary_Hash: d2e1cd24b1b85e3e803813adce79ab0b576c837d899fd7c1dbce894e62208273ef602066707095091adb6073d555770c0fc1d4b8e3c5e69ef10d2208a44a1d2e
-Meta_Hash (of Primary Hash): 1699e6c4b1cef3e2307e6df841a12053c1e78caf79a1d6d0abd5cd163207f99e98d3db6676395015980f6cdd11c54e9a67b6b3f5d6554e2932271a14cc19fb31
+Primary_Hash: 1a25a4e56ef66b332bf70c086708939f360c3879f85322d55d516be6faa09322e32113c0fc58e150e610ca4f7838699381c21eeac9570c6b5c38415725da11e7
+Meta_Hash (of Primary Hash): 6b397eaa6ea27dde39cb28dbc8e5db597ba7ffeb821af71543cf513cbe53052fc66706dd984d04bee3570c485308b879d79ad33f0232a951c339fc45f5d4864c
 Integrity-Level: Dual-Hash Verification (Syntax Layer + Meta Layer)
 ```
 
